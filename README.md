@@ -1,3 +1,11 @@
+Gostaria de compartilhar com vocês o meu desafio de desenvolvimento da tela de cadastro para a plataforma DIO, utilizando React. Foi um trabalho desafiador, mas bastante recompensador.
+
+Durante o processo de implementação, enfrentei alguns desafios, como a configuração inicial e a definição de estilos personalizados para os componentes. No entanto, com o uso de recursos como as documentações e o suporte da comunidade React, consegui superar esses obstáculos e concluir o projeto com sucesso.
+
+No final, fiquei bastante satisfeito com o resultado final. 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
